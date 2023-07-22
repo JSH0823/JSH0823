@@ -12,6 +12,7 @@ Hi Welcome, I'm SUHYUN JEONG 👋
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?style=for-the-badge&logo=Microsoft Powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white">
 
 
 
@@ -28,6 +29,7 @@ Hi Welcome, I'm SUHYUN JEONG 👋
 🐱 About Me   
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joungsh82369@gmail.com)](joungsh82369@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=NAVER&logoColor=white&link=mailto:jeongsh823@naver.com)](jeongsh823@naver.com)
 
 🏆 Award
 |기간|상세내용|기관|
