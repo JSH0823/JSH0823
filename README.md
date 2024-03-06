@@ -22,7 +22,7 @@ Hi Welcome, I'm SUHYUN JEONG 👋
 
  정보처리기사, 한국사능력검정시험 1급, 컴퓨터활용능력 1급
 
-🏅 TOEIC
+🏅 TOEIC 815
 
 
  
